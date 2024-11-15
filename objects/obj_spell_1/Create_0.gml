@@ -1,0 +1,1 @@
+damage = 2 + (3 * global.lvl);
